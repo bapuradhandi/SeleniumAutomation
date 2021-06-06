@@ -18,20 +18,20 @@ public class BlazeDemoHomePageTests {
 	}
 	
 	@Test(testName="TC-003-Test is to verify departure city list is displayed")
-	public static void TC_002_Departure_City_List_Is_Displayed() throws InterruptedException {
+	public static void TC_003_Departure_City_List_Is_Displayed() throws InterruptedException {
 	BlazeDemoHomePage BlazeDemoPageObj = new BlazeDemoHomePage();
 	BlazeDemoPageObj.driverInitialization();
 	Assert.assertTrue(BlazeDemoPageObj.isFromPortListDisplayed(), "Test is failed as departure city dropdown is not displayed");
 	}
 	
 	@Test(testName="TC-004-Test is to verify destination city is displayed")
-	public static void TC_003_Destination_City_List_Is_Displayed() throws InterruptedException {
+	public static void TC_004_Destination_City_List_Is_Displayed() throws InterruptedException {
 	BlazeDemoHomePage BlazeDemoPageObj = new BlazeDemoHomePage();
 	BlazeDemoPageObj.driverInitialization();
 	Assert.assertTrue(BlazeDemoPageObj.isToPortListDisplayed(), "Test is failed as departure city dropdown is not displayed");
 	}
 	@Test(testName="TC-005-Test is to verify the booking confirmation id")
-	public static void TC_004_Validating_booking_confirmation_id() throws InterruptedException {
+	public static void TC_005_Validating_booking_confirmation_id() throws InterruptedException {
 	BlazeDemoHomePage BlazeDemoPageObj = new BlazeDemoHomePage();
 	
 	BlazeDemoPageObj.driverInitialization();

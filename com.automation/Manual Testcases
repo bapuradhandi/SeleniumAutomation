@@ -1,1 +1,53 @@
-Manual Testcases
+Manual Test cases:
+
+1.Test is to verify URl is up and running
+2.Test is to verify home page is loaded and verify the title/header
+3.Test is to verify Destination of the week link is working
+4.Test is to verify Destination of the week
+5.Test is to verify departure city list is displayed
+6.Test is to verify departure city selection should be mandatory and able to select
+7.Test is to verify destination city list is displayed
+8.Test is to verify destination city selection should be mandatory and able to select
+9.Test is to verify Flight Flights button is displayed
+10.Test is to verify Find Flights button is working
+11.Test is to verify Flights list is displayed based on the selection
+12.Test is to verify different columns available in Flights list screen
+13.Test is to verify departure time is displayed in flights list screen
+14.test is to verify arrival time is displayed in flights list screen
+15.Test is to verify price is displayed in flights list screen
+16.Test is to verify flight number is displayed in Flights list screen
+17.Test is to verify Airline is displayed in Flights list screen
+18.Test is to verify Choose this flight button is displayed
+19.Test is to verify Choose this flight button is working
+20.Test is to verify the title of the reservation screen
+21.Test is to verify all the fields available in reservation screen
+22.Test is to verify Airline is as per the selection in booking screen
+23.test is to verify Flight number is as per the selection is booking screen
+24.Test is to verify price should be shown
+25.Test is to verify the arbitrary fees and taxes value
+26.Test is to verify Total cost should be sum of price and arbitrary fees and taxes
+27.Test is to verify able to enter Name in  reservation screen
+28.Test is to verify able to enter address
+29.Test is to verify able to enter city 
+30.Test is to verify able to enter state
+31.Test is to verify able to enter Zip code
+32.Test is to verify the card type list is displayed
+33.Test is to verify Card type list values
+34.Test is to verify able to select card type
+35.Test is to verify able to enter Credit card number
+36.Test is to verify able to enter month
+37.Test is to verify able to enter year
+38.Test is to verify able to enter Name on card
+39.Test is to verify able to check/uncheck Remember Me check box
+40.Test is to verify purchase flight button is displayed and working
+41.Test is to verify the confirmation message
+42.test is to verify the booking id
+43.Test is to verify the booking status
+44.Test is to verify booking amount in confirmation screen and should be same as calculated price
+45.Test is to verify card number is displayed and only last 4 digits are shown
+46.Test is to verify Expiration date is displayed
+47.Test is to verify Authcode is displayed
+48.Test is to verify booking date and time
+49.Test is to verify the timeout after entering details and without clicking on purchse flight button
+50.Test is to verify clicking on home button is navigating to Login screen
+51.Test is to verify clicking on Travel the world is working and navigating to city selection screen
